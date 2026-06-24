@@ -1,0 +1,36 @@
+body{
+   background-color: rgb(1, 1, 16);
+} 
+
+nav{
+    text-align: center;
+}
+
+h2{
+    color: aliceblue;
+}
+
+nav a{
+    color: rgb(248, 242, 242);
+    font-weight: bold;
+}
+
+.paisagens { 
+    text-align: center;
+    align-items: center;
+    border: 4px ;
+    padding: 15px;
+    margin: 10px;
+    background-color: black;
+    border-radius: 35px;
+
+}
+
+.paisagens img{
+    width: 150px;
+    height: 100px;
+}
+
+footer{
+    text-align: center;
+}
